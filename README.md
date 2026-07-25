@@ -132,15 +132,6 @@ streamlit run app.py
 
 ---
 
-## Deployment
-
-You can deploy on **Streamlit Community Cloud**:
-1. Push this repo to GitHub
-2. Create a new Streamlit app pointing at `app.py`
-3. Add the same `SUPABASE_URL` and `SUPABASE_KEY` in Streamlit Cloud Secrets
-
----
-
 ## Future Improvements (Optional Ideas)
 
 - Add validation for ticker symbols
